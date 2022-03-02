@@ -1,0 +1,1 @@
+print ("inne " + "hellow world!")
